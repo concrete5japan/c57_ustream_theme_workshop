@@ -4,4 +4,4 @@
 
 ## YouTube 動画
 
-実際のチュートリアルは、YouTube 動画を見ながら作業を行ってください。
+実際のチュートリアルは、[YouTube 動画](https://www.youtube.com/watch?v=gGvlCO7tUY0&index=8&list=PLYhm5ccDq-BXD4wqJFQoTxCtQJfWyNWvB)を見ながら作業を行ってください。
